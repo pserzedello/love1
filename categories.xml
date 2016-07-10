@@ -1,0 +1,22 @@
+<allcategories config='{"path":"img/categories/"}'>
+	<categories>
+		<title>Mulher</title>
+		<image>mulher.jpg</image>
+ 	</categories>
+	<categories>
+		<title>Utilidades</title>
+		<image>utilidades.jpg</image>
+ 	</categories>
+	<categories>
+		<title>Informática</title>
+		<image>informatica.jpg</image>
+ 	</categories>
+	<categories>
+		<title>Estudos</title>
+		<image>estudos.jpg</image>
+ 	</categories>
+	<categories>
+		<title>Amor</title>
+		<image>amor.jpg</image>
+ 	</categories>
+</allcategories>
